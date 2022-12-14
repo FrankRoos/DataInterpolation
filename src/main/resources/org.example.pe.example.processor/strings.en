@@ -1,0 +1,20 @@
+org.gft.processors.interpolation.title=Interpolation
+org.gft.processors.interpolation.description=Calculates the linear interpolation of a monitored value over a certain time interval if greater than a threshold value.
+
+value.title=Input value to observe
+value.description=Specify value to be monitored
+
+timestamp_value.title = Timestamp
+timestamp_value.description = Timestamp value
+
+threshold.title = Threshold
+threshold.description = Threshold value to apply to interpolation
+
+interpolation_operation.title = Interpolation Operation
+interpolation_operation.description = Choose kind of interpolation to perform
+
+chosen_timestamp.title = ""
+chosen_timestamp.description = ""
+
+interpolation_value.title = ""
+interpolation_value.description =  ""

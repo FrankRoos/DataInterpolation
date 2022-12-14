@@ -1,0 +1,5 @@
+org.example.pe.example.sink.title=ExampleSink
+org.example.pe.example.sink.description=Description of data processor
+
+example-key.title=Example Text Parameter
+example-key.description=Example Text Parameter Description
